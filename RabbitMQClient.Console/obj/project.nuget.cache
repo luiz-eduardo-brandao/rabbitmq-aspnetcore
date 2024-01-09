@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hq6GLlYDimorBlW1xp86KI8wx8BgirJ5L4F8gkxh3P3REgxtr7nYTo6lkp9+5cJOLtZpHy62plWBz3ta8mqg8A==",
+  "success": true,
+  "projectFilePath": "C:\\edu\\courses\\Mensageria\\mensageria-rabbitmq-aspnetcore\\RabbitMQClient.Console\\RabbitMQClient.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.signa.net.br/webapi/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

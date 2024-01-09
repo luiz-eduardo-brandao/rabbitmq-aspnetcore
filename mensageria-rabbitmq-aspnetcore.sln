@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- RabbitMQ.Client", "1- RabbitMQ.Client", "{D1661461-7BFE-47D1-B641-82805345A97A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQClient.Console", "RabbitMQClient.Console\RabbitMQClient.Console.csproj", "{F12C6454-259E-4B42-9D1F-271AC568DDF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- EasyNetQ", "2- EasyNetQ", "{E9A4AFD1-E1BD-44D2-A1F2-E360A4C0F7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Console", "EasyNetQ.Console\EasyNetQ.Console.csproj", "{777D5E6C-6F97-4B9B-8A94-39282A38B5D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12C6454-259E-4B42-9D1F-271AC568DDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12C6454-259E-4B42-9D1F-271AC568DDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12C6454-259E-4B42-9D1F-271AC568DDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12C6454-259E-4B42-9D1F-271AC568DDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777D5E6C-6F97-4B9B-8A94-39282A38B5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777D5E6C-6F97-4B9B-8A94-39282A38B5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777D5E6C-6F97-4B9B-8A94-39282A38B5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777D5E6C-6F97-4B9B-8A94-39282A38B5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F12C6454-259E-4B42-9D1F-271AC568DDF3} = {D1661461-7BFE-47D1-B641-82805345A97A}
+		{777D5E6C-6F97-4B9B-8A94-39282A38B5D1} = {E9A4AFD1-E1BD-44D2-A1F2-E360A4C0F7E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A92BFE-58A2-4087-9AC9-8E2FC17CEF8B}
+	EndGlobalSection
+EndGlobal

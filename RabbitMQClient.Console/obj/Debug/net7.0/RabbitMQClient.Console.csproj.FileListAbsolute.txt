@@ -1,0 +1,17 @@
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQClient.Console.exe
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQClient.Console.deps.json
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQClient.Console.runtimeconfig.json
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQClient.Console.dll
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQClient.Console.pdb
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.csproj.AssemblyReference.cache
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.AssemblyInfoInputs.cache
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.AssemblyInfo.cs
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.csproj.CoreCompileInputs.cache
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.csproj.CopyComplete
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.dll
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\refint\RabbitMQClient.Console.dll
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.pdb
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\RabbitMQClient.Console.genruntimeconfig.cache
+C:\edu\courses\Mensageria\mensageria-rabbitmq-aspnetcore\RabbitMQClient.Console\obj\Debug\net7.0\ref\RabbitMQClient.Console.dll

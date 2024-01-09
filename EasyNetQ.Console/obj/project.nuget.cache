@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOea+Yqq0haep5WYtSFVABBsLEoSuY9bnPWUKODsEsHGnX/VF9wOhsA3sJAkL/2WTIQlioMCsnuflwgOEyspjw==",
+  "success": true,
+  "projectFilePath": "C:\\edu\\courses\\Mensageria\\mensageria-rabbitmq-aspnetcore\\EasyNetQ.Console\\EasyNetQ.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\easynetq\\7.7.0\\easynetq.7.7.0.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.signa.net.br/webapi/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
